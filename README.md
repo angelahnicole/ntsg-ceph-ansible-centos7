@@ -1,0 +1,1 @@
+# ntsg-ceph-ansible-centos7
